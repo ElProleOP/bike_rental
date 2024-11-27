@@ -14,10 +14,10 @@ Project to create a relational database with analytics-ready views connecting Ci
 
 ##  Folder Structure
 
--   `bike_rental.ipynb`: Prepare the data for inserting into the database
+-   `citibike.ipynb`: Prepare the data for inserting into the database
 -   `tables.sql`: SQL queries to create the database tables
 -   `views.sql`: SQL queries to create the database views
--   `Ent_Rel_Dia.pdf`: Entity relationship diagram for the database
+-   `ERD.pdf`: Entity relationship diagram for the database
 
 ### `Data`
 
